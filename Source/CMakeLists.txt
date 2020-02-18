@@ -1,0 +1,5 @@
+add_subdirectory(cltest)
+add_subdirectory(NeCore)
+#add_subdirectory(NeProtocol)
+#add_subdirectory(NeServer)
+#add_subdirectory(NeProxy)
